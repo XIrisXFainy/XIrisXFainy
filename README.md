@@ -3,6 +3,9 @@
 <p>Estou me desenvolvendo no javaScript</p>
 <p>Utilizo esse espaço para organizar e poder compartilhar os meus projetos <3</p>
 
+##Você pode entrar em contato comigo
+irissantoslima247@gmail.com
+
 <!--
 **XIrisXFainy/XIrisXFainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
