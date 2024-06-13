@@ -1,5 +1,5 @@
 ## OI, meu nome é Iris Santos
-estou estudando na Alura
+<p> estou estudando na Alura </p>
 estou me desenvolvendo no javaScript
 utilizo esse espaço para organizar e poder compartilhar os meus projetos <3
 
