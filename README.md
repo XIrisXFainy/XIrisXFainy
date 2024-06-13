@@ -1,4 +1,7 @@
 ## OI, meu nome é Iris Santos
+estou estudando na Alura
+estou me desenvolvendo no javaScript
+utilizo esse espaço para organizar e poder compartilhar os meus projetos <3
 
 <!--
 **XIrisXFainy/XIrisXFainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
